@@ -5,4 +5,4 @@ df = pd.DataFrame({"Cat1" : list("pop") , "Cat2" : list("ppp"),"Cat3" : list("pa
 
 #Display the DataFrame 
 
-print("FataFrame: \n" , df)
+print("DataFrame: \n" , df)
